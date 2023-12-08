@@ -1,4 +1,4 @@
-<img height="300" width="1000" src="img/topbanner.png">
+<img height="300" width="1000" src="img/topbanner.jpg">
 
 <h1 align="center">
   Let's Connect and have a Chat! 💬
