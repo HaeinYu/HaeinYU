@@ -1,4 +1,4 @@
-<img height="300" width="1000" src="img/topbanner.jpg">
+<img height="300" width="1000" src="img/topBanner.jpg">
 
 <h1 align="center">
   Let's Connect and have a Chat! 💬
@@ -63,6 +63,7 @@ hobbies: ["Swimming", "Music", "Playing_Flute", "Art"]
   <img src="https://github.com/HaeinYu/HaeinYU/assets/146678035/28225508-5537-4ab4-9eca-008f384f6f08" alt="figma" width="45" height="45"/>
   <img src="https://github.com/HaeinYu/HaeinYU/assets/146678035/b77294b1-c730-466e-a351-f6aa3d650ce0" alt="premierepro" width="45" height="45"/>
   <img src="https://github.com/HaeinYu/HaeinYU/assets/146678035/7f8b8566-e988-435c-ab25-01d2c3955729" alt="photoshop" width="45" height="45"/>
+  
 </p>
 
 
