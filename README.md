@@ -23,7 +23,7 @@
 ```yaml
 name: Haein Yu
 located_in: Philadelphia, PA, USA
-current_job: Software Developer
+current_seeking_job: Data Analyst
 education:
   [
     "Bachelor's in Computer Science",
@@ -33,9 +33,9 @@ company: #Open To Work
 
 fields_of_interests:
   [
-    "Web Development",
-    "UI/UX",
     "Data Analyst",
+    "Web Developement",
+    "UI/UX",
   ]
 technical_background:
   [
